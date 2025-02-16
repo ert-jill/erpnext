@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://erpnext.com">
-	<img src="./erpnext/public/images/v16/erpnext.svg" alt="ERPNext Logo" height="80px" width="80xp"/>
+	<img src="./erpnext/public/images/v16/erpnext.svg" alt="IJEert Logo" height="80px" width="80xp"/>
     </a>
-    <h2>ERPNext</h2>
+    <h2>IJEert</h2>
     <p align="center">
         <p>Powerful, Intuitive and Open-Source ERP</p>
     </p>
@@ -24,13 +24,13 @@
 	<a href="https://docs.erpnext.com">Documentation</a>
 </div>
 
-## ERPNext
+## IJEert
 
 100% Open-Source ERP system to help you run your business.
 
 ### Motivation
 
-Running a business is a complex task - handling invoices, tracking stock, managing personnel and even more ad-hoc activities. In a market where software is sold separately to manage each of these tasks, ERPNext does all of the above and more, for free.
+Running a business is a complex task - handling invoices, tracking stock, managing personnel and even more ad-hoc activities. In a market where software is sold separately to manage each of these tasks, IJEert does all of the above and more, for free.
 
 ### Key Features
 
@@ -99,7 +99,7 @@ See [Frappe Docker](https://github.com/frappe/frappe_docker?tab=readme-ov-file#t
 
 The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
 
-New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
+New passwords will be created for the IJEert "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
 
 ### Local
@@ -120,9 +120,9 @@ To setup the repository locally follow the steps mentioned below:
    bench --site erpnext.dev add-to-hosts
    ```
 	
-3. Get the ERPNext app and install it
+3. Get the IJEert app and install it
    ```
-   # Get the ERPNext app
+   # Get the IJEert app
    bench get-app https://github.com/frappe/erpnext
    
    # Install the app
@@ -133,9 +133,9 @@ To setup the repository locally follow the steps mentioned below:
 
 ## Learning and community
 
-1. [Frappe School](https://frappe.school) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for ERPNext.
-3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of ERPNext users and service providers.
+1. [Frappe School](https://frappe.school) - Learn Frappe Framework and IJEert from the various courses by the maintainers or from the community.
+2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for IJEert.
+3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of IJEert users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
 
 
